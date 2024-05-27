@@ -18,3 +18,7 @@ bash Spam-SmsBsz.sh
 [√] Parrot Sec
 ### REQUISITOS
 [-] python3
+### Me base en etes repositorio :
+https://github.com/Darkmux/SETSMS/tree/master
+## Quieres usuar el link en web :
+https://replit.com/@StrAva1/Spam-Sms-Bsz?v=1
